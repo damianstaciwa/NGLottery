@@ -1,0 +1,15 @@
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\bin\Debug\net6.0\NGLottery.exe
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\bin\Debug\net6.0\NGLottery.deps.json
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\bin\Debug\net6.0\NGLottery.runtimeconfig.json
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\bin\Debug\net6.0\NGLottery.dll
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\bin\Debug\net6.0\NGLottery.pdb
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.csproj.AssemblyReference.cache
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.dll
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\refint\NGLottery.dll
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.pdb
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\NGLottery.genruntimeconfig.cache
+C:\Users\damia\OneDrive\Pulpit\Projekty\NeoGamesLottery\obj\Debug\net6.0\ref\NGLottery.dll
