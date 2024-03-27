@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NeoGamesLottery\\NGLottery.csproj",
+      "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NGLottery\\NGLottery.csproj",
       "projectName": "NGLottery",
-      "projectPath": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NeoGamesLottery\\NGLottery.csproj",
+      "projectPath": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NGLottery\\NGLottery.csproj",
       "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NeoGamesLottery\\obj\\",
+      "outputPath": "C:\\Users\\damia\\OneDrive\\Pulpit\\Projekty\\NGLottery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -29,6 +29,7 @@
                 record.BetAmount = random.Next(10, 101);
 
                 bool isWin = random.Next(0, 2) == 1;
+
                 if (isWin)
                 {
                     record.WinAmount = random.Next(0, (int)record.BetAmount);
